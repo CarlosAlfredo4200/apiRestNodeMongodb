@@ -1,0 +1,4 @@
+usuario : carlosApiRest
+pass: de siempre
+
+scaffold: Andamio: estructura de carpetas del proyecto MVC
